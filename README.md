@@ -241,14 +241,14 @@ https://github.com/Nikhilkr33/Portfolionew
 
 ---
 
-# 🐍 Contribution Snake
+<h2>🐍 Contribution Snake</h2>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nikhilkr33/Nikhilkr33/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Nikhilkr33/Nikhilkr33/output/github-contribution-grid-snake-dark.svg"
+    alt="Nikhil Kumar GitHub Contribution Snake"
+  />
+</p>
 ---
 
 # 🏆 GitHub Trophies
